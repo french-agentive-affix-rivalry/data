@@ -8,7 +8,7 @@ Ce répertoire contient les données utilisées comme amorces dans l'étude. Les
 * la catégorie grammaticale de sa base (BASE_POS, soit "v", soit "n")
 * le type sémantique de la base (SEM_TYPE, prenant une valeur parmi "action", "object", "domain", "property", "institution", "objCog" et "other")
 
-English version 
+## English version 
 
 This repository contains the data used as seeds ("amorces" in the paper) in the study. Data are presented in .csv files (one for each suffix) composed of 5 columns separated by tabutations. Each entry contains:
 * the agent noun (AN)
